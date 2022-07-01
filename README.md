@@ -2,5 +2,10 @@
 DSA project
 Done using Visual Studio 
 For our DSA course
-Obtained 40/40
+C++ used
+
+team members 
+CHIRAG GADIA
+JAI SEHGAL
+UDAY SINGH THAKUR
 

@@ -85,9 +85,7 @@ bool Blocks::canBlockMove(int nPieces, int n_Rotation, int nPosX, int nPosY)
 			// Checking for bounds
 			if (nPosX + positionX >= 0 && nPosX + positionX < fWidth)
 			{
-				if (nPosY + positionY >= 
-					.
-					0 && nPosY + positionY < fHeight)
+				if (nPosY + positionY >= 0 && nPosY + positionY < fHeight)
 				{
 					// In Bounds so do collision check
 					// If piece has * and playField is occupied then no movement possible
